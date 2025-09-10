@@ -24,7 +24,7 @@ bool isPalindrome(int n) {
 }
 
 int main() {
-    int n = 121;
+    int n = 24242;
     cout << (isPalindrome(n) ? "true" : "false") << endl;
     return 0;
 }
